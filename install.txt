@@ -1,0 +1,13 @@
+Alterar no PHP INI
+
+
+-- Desabilitar display errors
+
+-- setar timezone
+
+-- 
+
+
+http://www.computerhope.com/unix/uumask.htm (para nao deixar usar shell nem php no upload)
+
+
