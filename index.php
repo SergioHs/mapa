@@ -6,7 +6,7 @@
 		<title>Sistema de Mapeamento Colaborativo</title>
 	  	<meta name="viewport" content="width=device-width, initial-scale=1">
 	  	<link rel="stylesheet" href="sources/bootstrap.min.css">
-		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBuERdoQ4F8LyCgU985DeeWY0lFb43vMNA"></script>
+		<script src="http://maps.googleapis.com/maps/api/js?key=GOOGLE_KEY"></script>
 		<script src="sources/jquery.min.js"></script>
 	  	<script src="sources/bootstrap.min.js"></script>
 		<link rel="stylesheet" href="css/meu-arquivo.css">
